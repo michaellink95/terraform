@@ -1,0 +1,10 @@
+1) open up git, and cd to the local directory.
+2) git init
+3) git branch -M main
+4) git commit -m "first commit"
+5) git remote add origin "github URL"
+6) git push -u origin main
+7) git pull origin main
+
+
+Connect via access token which you create in developer settings within github.
